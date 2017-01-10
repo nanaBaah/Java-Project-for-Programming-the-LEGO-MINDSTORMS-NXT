@@ -4,7 +4,6 @@ Project Description: Robot
 Construct an application for controlling a robot. The robot has to be constructed using the Lego Mindstorm project.
 
 ![alt tag](https://github.com/nanaBaah/Java-Project-for-Programming-the-LEGO-MINDSTORMS-NXT/blob/master/Lego_NXT_robot.jpg)
-d
 Hardware requirements: 
 ----------------------
 
@@ -29,3 +28,6 @@ Software requirements:
 * calculating time until recharging
 * go back to the recharging unit
 * put pallets to specific positions
+
+![alt tag](https://github.com/nanaBaah/Java-Project-for-Programming-the-LEGO-MINDSTORMS-NXT/blob/master/Hardware_example.PNG)
+d
