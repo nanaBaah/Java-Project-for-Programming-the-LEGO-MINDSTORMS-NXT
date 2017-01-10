@@ -1,10 +1,11 @@
 Project Description: Robot
 ==========================
 
-Construct an application for controlling a robot. The robot has to be
-constructed using the Lego Mindstorm project.
+Construct an application for controlling a robot. The robot has to be constructed using the Lego Mindstorm project.
 
-Hardware requirements:
+![alt tag](https://github.com/nanaBaah/Java-Project-for-Programming-the-LEGO-MINDSTORMS-NXT/blob/master/Lego_NXT_robot.jpg)
+d
+Hardware requirements: 
 ----------------------
 
 The robot has to be constructed in a form that he can:
@@ -22,7 +23,7 @@ Software requirements:
 * construction of the whole system using Visual Paradigm
 * program implementation in Java (find the Java API and the newest versions)
 * choose a program location (in robot-CPU or connection to a PC via Bluetooth)
-* the robot needs to inspect the room where ìheî lives
+* the robot needs to inspect the room where ‚Äúhe‚Äù lives
 * the robot has to store the room information (obstacles, borders, recharging unit, etc.) in a data base / file system
 * navigate inside the room
 * calculating time until recharging
